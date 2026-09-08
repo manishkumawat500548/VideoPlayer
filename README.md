@@ -15,9 +15,8 @@ A simple Android Video Player application built using Kotlin and Jetpack Compose
 
 ## 📱 Screenshots
 
-| Home                          | Main                            | VideoList                           |
+| Main                         | Permission                            | VideoList                           |
 | ----------------------------- | ----------------------------------- | ----------------------------------- |
-| ![Home Screen](screenshots/permissionScreen.jpg) | ![Workout Screen](screenshots/mainScreen.jpg) | ![History Screen](screenshots/videoListScreen.jpg) |
-
+| ![Home Screen](screenshots/mainScreen.jpg) | ![Workout Screen](screenshots/permissionScreen.jpg) | ![History Screen](screenshots/videoListScreen.jpg) |
 
 
