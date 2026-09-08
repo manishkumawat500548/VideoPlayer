@@ -14,6 +14,6 @@ A simple Android Video Player application built using Kotlin and Jetpack Compose
 - ExoPlayer / Media3
 
 ## Screenshots
-![Home](screenshots/permissionScreen.jpg)
-![Login](screenshots/mainScreen.jpg)
-![Login](screenshots/videoListScreen.jpg)
+![Home Screen](screenshots/permissionScreen.jpg)
+![Main Screen](screenshots/mainScreen.jpg)
+![VideoList Screen](screenshots/videoListScreen.jpg)
